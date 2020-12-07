@@ -1,2 +1,2 @@
-# nupkgreports
-Generate xlsx spreadsheets from nupkgs
+# NuPkgReports
+Generate xlsx spreadsheets from nuget packages.
